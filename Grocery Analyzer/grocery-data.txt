@@ -1,0 +1,50 @@
+Wine - Chianti Classico Riserva;31.44;Burkina Faso
+Wine - Red, Mouton Cadet;46.7;China
+Bread - Raisin Walnut Oval;30.16;Poland
+Beans - French;32.81;China
+Sparkling Wine - Rose, Freixenet;11.24;France
+Artichoke - Fresh;10.01;Indonesia
+Cheese - Cambozola;7.85;Russia
+Honey - Comb;11.43;Pakistan
+Tomatoes;36.63;China
+Eggwhite Frozen;23.36;United States
+Glass - Wine, Plastic, Clear 5 Oz;6.49;China
+Pork - Kidney;36.57;Kenya
+Ginsing - Fresh;11.6;Cape Verde
+Bread - Burger;40.2;Poland
+Fish - Atlantic Salmon, Cold;32.86;Thailand
+Cherries - Fresh;32.09;Ukraine
+Ketchup - Tomato;34.79;China
+Sachet;22.11;Ethiopia
+Juice - Apple, 1.36l;6.27;Japan
+Pasta - Lasagne, Fresh;41.84;Indonesia
+Wine - Redchard Merritt;27.55;Indonesia
+Arizona - Plum Green Tea;48.72;Brazil
+Beef Cheek Fresh;41.04;Indonesia
+Lettuce - Boston Bib - Organic;13.03;China
+Cream - 35%;15.01;China
+Juice - Lime;25.14;Brazil
+Beer - Fruli;14.0;Sweden
+Juice - Orangina;31.8;Brazil
+Foam Tray S2;30.09;Poland
+Remy Red;37.07;Slovenia
+Appetizer - Crab And Brie;11.87;Russia
+Pasta - Lasagna Noodle, Frozen;42.24;Portugal
+Sausage - Andouille;40.78;Peru
+Thyme - Dried;32.14;Russia
+Calypso - Pineapple Passion;23.55;Czech Republic
+Cheese - Manchego, Spanish;43.37;Indonesia
+Lotus Rootlets - Canned;20.35;Sweden
+Wine - Rhine Riesling Wolf Blass;17.63;Indonesia
+Swiss Chard - Red;36.73;China
+Cheese - La Sauvagine;13.2;China
+Bread - White, Unsliced;46.38;United Kingdom
+Pepper - Cayenne;35.54;Mongolia
+Cheese - Grie Des Champ;15.67;Philippines
+Tumeric;29.25;Philippines
+Herb Du Provence - Primerba;47.29;China
+Towel Dispenser;31.77;Brazil
+Wine - Beaujolais Villages;12.48;Portugal
+Madeira;16.87;Czech Republic
+Persimmons;30.13;Brazil
+Tart Shells - Savory, 2;15.44;China
